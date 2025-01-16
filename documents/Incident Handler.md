@@ -63,7 +63,7 @@ Yeni bir şey öğrenmek, bir puzzle çözmek gibi olur. Çok hızlı adapte olu
 Bir SOC ekibinde çalışan Tier 3 olarak çalışan threat hunting pozisyonunda çalışan birinin teorik ve yarı pratik bilgilerini edinmiş olacağız. (Yarı pratik: Tamamı siz bir şeyleri aramadıkça kurcalamadıkça tam bir pratiklik elde edemeyeceksiniz).
 
 <p align="center">
-    <img src="./assets/rabbit.jpg" alt="Rabbit image" width="200">
+    <img src="../assets/rabbit.jpg" alt="Rabbit image" width="200">
 </p>
 
 > Mavi hapı alırsan hikaye biter. Yatağında uyanır ve istediğin şeye inanırsın. Kırmızı hapı alırsan Mucize Ülkesinde kalırsın ve sana tavşan deliğinin ne kadar derin olduğunu gösteririm. Unutma! Sana gerçeği öneriyorum. O kadar. (Morpheus)
@@ -771,7 +771,7 @@ Cyber Kill Chain, genellikle aşağıdaki adımlardan oluşur:
 Cyber Kill Chain, bir saldırının adımlarını tanımlayarak güvenlik uzmanlarına ve organizasyonlara saldırıları tespit etmek, saldırı süreçlerini kesmek veya en azından etkilerini minimize etmek için bir çerçeve sunar. Buna dayanarak, organizasyonlar savunma stratejilerini planlayabilir, güvenlik açıklarını kapatmak ve saldırıları tespit etmek için gereken önlemleri alabilir.
 
 <p align="center">
-    <img src="./assets/ckc.png" alt="ckc" width="500">
+    <img src="../assets/ckc.png" alt="ckc" width="500">
 </p>
 
 ## Bölüm 3: Red Team vs Blue Team Startegies
@@ -899,7 +899,7 @@ Bu kavramlar, blue team'in organizasyonun savunma düzeyini artırmak ve güvenl
 ### Malware
 
 <p align="center">
-    <img src="./assets/types-of-malware.png" alt="Types of Malware" width="300">
+    <img src="../assets/types-of-malware.png" alt="Types of Malware" width="300">
 </p>
 
 Zararlı yazılım (malware), bilgisayar sistemlerine zarar veren veya yetkisiz erişim sağlayan yazılımları ifade eder. Zararlı yazılımlar genellikle kötü niyetli saldırganlar tarafından oluşturulur ve yayılır. İşte zararlı yazılımın bazı yaygın tipleri:
@@ -943,7 +943,7 @@ Antivirus, EPP ve EDR yazılımlarını birlikte kullanmak, bilgisayarınızı, 
 ### COMMON TYPES OF SECURITY VULNERABILITIES
 
 <p align="center">
-    <img src="./assets/Security-Vulnerabilities.png" alt="Common type of security vulnerabilities" width="900">
+    <img src="../assets/Security-Vulnerabilities.png" alt="Common type of security vulnerabilities" width="900">
 </p>
 
 Kaynak: [Security Vulnerabilities](https://www.spiceworks.com/it-security/vulnerability-management/articles/what-is-a-security-vulnerability/)
@@ -961,7 +961,7 @@ Kaynak: [Security Vulnerabilities](https://www.spiceworks.com/it-security/vulner
 ## Bölüm 5: Open Source and Free Blue Team Tools
 
 <p align="center">
-    <img src="./assets/suricata.jpg" alt="suricata" width="400">
+    <img src="../assets/suricata.jpg" alt="suricata" width="400">
 </p>
 
 ### NIDS - Suricata
@@ -1072,7 +1072,7 @@ Bir HIDS, saldırılara karşı koruma sağlamak için ayrıca günlük dosyalar
 Unutulmaması gereken önemli bir nokta, HIDS'in tek başına yeterli bir güvenlik çözümü olmadığıdır. Ağ tabanlı güvenlik cihazları ve güvenlik politikalarıyla birlikte kullanılarak bütüncül bir güvenlik stratejisi oluşturulmalıdır.
 
 <p align="center">
-    <img src="./assets/Wazuh_blue.png" alt ="Wazuh Logo" width="200">
+    <img src="../assets/Wazuh_blue.png" alt ="Wazuh Logo" width="200">
 </p>
 
 #### Wazuh
@@ -1090,5 +1090,5 @@ Wazuh, açık kaynak kodlu olması sayesinde topluluk tarafından geliştirilebi
 Özetle, Wazuh, güvenlik olaylarını izlemek, tespit etmek ve raporlamak için kullanılan açık kaynaklı bir güvenlik platformudur. HIDS ve log yönetimi işlevlerini bir araya getirerek, bilgisayar ağları ve sistemlerinin güvenliğini artırmak için etkili bir araç sunar.
 
 <p align="center">
-    <img src="./assets/wazuh.png" width="500" alt="Wazuh">
+    <img src="../assets/wazuh.png" width="500" alt="Wazuh">
 </p>
