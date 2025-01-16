@@ -24,7 +24,6 @@ Bu repo, Blue Team üzerine çalışmalarımı ve notlarımı içermektedir.
 ### Certificate
 
 <p align="center">
-<div style="display: flex; justify-content: center; align-items: center; gap: 25px;">
-    <img src="./certificate/incident_handler_certificate.jpg" width="400" alt="Blue Team: Incident Handler Certificate">
-    <img src="./certificate/incident_responder_certificate.jpg" width="400" alt="Cyber Security Blue Team: Incident Responder Series">
-</div>
+    <img src="./certificates/incident_handler_certificate.jpg" width="400" alt="Blue Team: Incident Handler Certificate">
+    <img src="./certificates/incident_responder_certificate.jpg" width="400" alt="Cyber Security Blue Team: Incident Responder Series">
+</p>
