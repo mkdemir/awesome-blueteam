@@ -20,7 +20,7 @@ Bu repo, Blue Team üzerine çalışmalarımı ve notlarımı içermektedir.
 
 - [Incident Handler](<documents/Incident Handler.md>)
 - [Incident Responder](<documents/Incident Responder.md>)
-- [Uygulamalı Splunk Eğitimi](<document/splunk-bootcamp.md>)
+- [Uygulamalı Splunk Eğitimi](<documents/splunk-bootcamp.md>)
 
 ### Certificate
 
