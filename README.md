@@ -1,7 +1,7 @@
 <!-- markdownlint template -->
 <!-- markdownlint-disable MD033 -->
 
-# BLUE TEAM
+# Awesome Blue Team
 
 <p align="center">
     <img src="./assets/logo.png" width="300" alt="blue team logo">
